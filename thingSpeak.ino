@@ -2,8 +2,8 @@
 #include <WiFiClient.h>;
 #include <ThingSpeak.h>;
 
-const char* ssid = "Faculdade Impacta v2"; //Your Network SSID
-const char* password = "impacta2021"; //Your Network Password
+const char* ssid = "Login"; //Your Network SSID
+const char* password = "senha"; //Your Network Password
 int val;
 int LDRpin = A0; //LDR Pin Connected at A0 Pin
 
